@@ -8,5 +8,7 @@
 
 
 const urls = [
-	'https://forms.gle/pdgQq2vmTDEMeyqAA'
+	'https://www.surveycake.com/s/ad10Y',
+	'https://www.surveycake.com/s/o879K',
+	'https://www.surveycake.com/s/eBevX'
 ];
